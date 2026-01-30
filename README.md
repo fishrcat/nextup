@@ -5,7 +5,7 @@
 <b>keep your barrier to starting development sessions under control by tracking the next action to take on a 
 maximum of 3 active projects</b>
 
-[📑 Usage](#usage) &nbsp; [🛠️ Install](#installation) &nbsp; [📜 License](#license)
+[Usage](#usage) &nbsp; [Install](#installation) &nbsp; [License](#license)
 </div>
 
 ---
